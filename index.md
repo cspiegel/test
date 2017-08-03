@@ -1,3 +1,6 @@
+---
+title: Test
+---
 ## Bocfel Z-machine interpreter
 
 ### Overview
