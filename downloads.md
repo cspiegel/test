@@ -8,7 +8,7 @@ Latest version: 0.9
 
 [bocfel-0.9.tar.gz](downloads/bocfel-0.9.tar.gz?raw=true)
 
-Release date: 2017-03-19
+Release date: March 19, 2017
 
 Release notes:
 * UTF-8 is now used for all transcripts and command scripts. 
@@ -19,7 +19,7 @@ Release notes:
 
 [bocfel-0.6.3.2.tar.gz](downloads/bocfel-0.6.3.2.tar.gz?raw=true)
 
-Release date: 2014-12-16
+Release date: December 16, 2014
 
 Release notes:
 * Fix detection of *Sherlock* version 26-880127. 
@@ -28,7 +28,7 @@ Release notes:
 
 [bocfel-0.6.3.1.tar.gz](downloads/bocfel-0.6.3.1.tar.gz?raw=true)
 
-Release date: 2014-06-13
+Release date: June 13, 2014
 
 Release notes:
 * Fix a potential use of uninitialized variable. 
@@ -37,7 +37,7 @@ Release notes:
 
 [bocfel-0.6.3.tar.gz](downloads/bocfel-0.6.3.tar.gz?raw=true)
 
-Release date: 2014-02-02
+Release date: February  2, 2014
 
 Release notes:
 * Improved handling of abbreviations (x, g, z, and o). 
@@ -49,7 +49,7 @@ Release notes:
 
 [bocfel-0.6.2.tar.gz](downloads/bocfel-0.6.2.tar.gz?raw=true)
 
-Release date: 2012-12-01
+Release date: December  1, 2012
 
 Release notes:
 * Enable `/undo` in V5 games which do not support undo (e.g. *Hitchhiker’s Guide*). 
@@ -61,7 +61,7 @@ Release notes:
 
 [bocfel-0.6.1.tar.gz](downloads/bocfel-0.6.1.tar.gz?raw=true)
 
-Release date: 2012-02-27
+Release date: February 27, 2012
 
 Release notes:
 * Bocfel is now dual-licensed under both the GPLv2 and GPLv3. 
@@ -71,7 +71,7 @@ Release notes:
 
 [bocfel-0.6.0.tar.gz](downloads/bocfel-0.6.0.tar.gz?raw=true)
 
-Release date: 2011-06-26
+Release date: June 26, 2011
 
 Release notes:
 * The configuration options `script_on` and `script_name` have been renamed to `record_on` and `record_name`. 
@@ -82,7 +82,7 @@ Release notes:
 
 [bocfel-0.5.5.tar.gz](downloads/bocfel-0.5.5.tar.gz?raw=true)
 
-Release date: 2011-04-22
+Release date: April 22, 2011
 
 Release notes:
 * Preliminary `@sound_effect` support. 
@@ -92,7 +92,7 @@ Release notes:
 
 [bocfel-0.5.4.tar.gz](downloads/bocfel-0.5.4.tar.gz?raw=true)
 
-Release date: 2011-03-25
+Release date: March 25, 2011
 
 Release notes:
 * Fix a rather obscure bug triggered when `@restart` is called inside an interrupt. 
@@ -104,7 +104,7 @@ Release notes:
 
 [bocfel-0.5.3.tar.gz](downloads/bocfel-0.5.3.tar.gz?raw=true)
 
-Release date: 2011-03-09
+Release date: March  9, 2011
 
 Release notes:
 * The initial random seed can now be read from a device such as `/dev/random`. 
@@ -115,7 +115,7 @@ Release notes:
 
 [bocfel-0.5.2.tar.gz](downloads/bocfel-0.5.2.tar.gz?raw=true)
 
-Release date: 2011-02-22
+Release date: February 22, 2011
 
 Release notes:
 * Fix a display problem when a newline is printed at the right edge of the upper window. 
@@ -125,7 +125,7 @@ Release notes:
 
 [bocfel-0.5.1.tar.gz](downloads/bocfel-0.5.1.tar.gz?raw=true)
 
-Release date: 2011-02-18
+Release date: February 18, 2011
 
 Release notes:
 * Bocfel now reports itself as a Standard 1.1-compliant interpreter. 
@@ -137,7 +137,7 @@ Release notes:
 
 [bocfel-0.5.0.tar.gz](downloads/bocfel-0.5.0.tar.gz?raw=true)
 
-Release date: 2011-02-15
+Release date: February 15, 2011
 
 Release notes:
 * Initial release 

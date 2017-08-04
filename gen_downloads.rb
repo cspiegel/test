@@ -19,7 +19,7 @@ downloads.each do |download|
 
 [bocfel-#{download["version"]}.tar.gz](downloads/bocfel-#{download["version"]}.tar.gz?raw=true)
 
-Release date: #{download["date"]}
+Release date: #{download["date"].strftime "%B %e, %Y"}
 
 Release notes:
 EOF
