@@ -5,7 +5,7 @@ require "yaml"
 downloads = YAML.load_file("downloads.yml").sort_by { |download| download["date"] }.reverse
 
 puts <<EOF
-## Downloads
+## Bocfel Downloads
 
 The source code for Bocfel is provided here.
 
