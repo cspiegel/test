@@ -1,6 +1,3 @@
----
-title: Bocfel downloads
----
 ## Bocfel Downloads
 
 The source code for Bocfel is provided here.
