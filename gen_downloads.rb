@@ -17,7 +17,7 @@ downloads.each do |download|
 
 ### Bocfel #{download["version"]}
 
-[bocfel-#{download["version"]}.tar.gz](/downloads/bocfel-#{download["version"]}.tar.gz?raw=true)
+[bocfel-#{download["version"]}.tar.gz](downloads/bocfel-#{download["version"]}.tar.gz?raw=true)
 
 Release date: #{download["date"]}
 

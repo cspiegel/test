@@ -6,7 +6,7 @@ Latest version: 0.9
 
 ### Bocfel 0.9
 
-[bocfel-0.9.tar.gz](/downloads/bocfel-0.9.tar.gz?raw=true)
+[bocfel-0.9.tar.gz](downloads/bocfel-0.9.tar.gz?raw=true)
 
 Release date: 2017-03-19
 
@@ -17,7 +17,7 @@ Release notes:
 
 ### Bocfel 0.6.3.2
 
-[bocfel-0.6.3.2.tar.gz](/downloads/bocfel-0.6.3.2.tar.gz?raw=true)
+[bocfel-0.6.3.2.tar.gz](downloads/bocfel-0.6.3.2.tar.gz?raw=true)
 
 Release date: 2014-12-16
 
@@ -26,7 +26,7 @@ Release notes:
 
 ### Bocfel 0.6.3.1
 
-[bocfel-0.6.3.1.tar.gz](/downloads/bocfel-0.6.3.1.tar.gz?raw=true)
+[bocfel-0.6.3.1.tar.gz](downloads/bocfel-0.6.3.1.tar.gz?raw=true)
 
 Release date: 2014-06-13
 
@@ -35,7 +35,7 @@ Release notes:
 
 ### Bocfel 0.6.3
 
-[bocfel-0.6.3.tar.gz](/downloads/bocfel-0.6.3.tar.gz?raw=true)
+[bocfel-0.6.3.tar.gz](downloads/bocfel-0.6.3.tar.gz?raw=true)
 
 Release date: 2014-02-02
 
@@ -47,7 +47,7 @@ Release notes:
 
 ### Bocfel 0.6.2
 
-[bocfel-0.6.2.tar.gz](/downloads/bocfel-0.6.2.tar.gz?raw=true)
+[bocfel-0.6.2.tar.gz](downloads/bocfel-0.6.2.tar.gz?raw=true)
 
 Release date: 2012-12-01
 
@@ -59,7 +59,7 @@ Release notes:
 
 ### Bocfel 0.6.1
 
-[bocfel-0.6.1.tar.gz](/downloads/bocfel-0.6.1.tar.gz?raw=true)
+[bocfel-0.6.1.tar.gz](downloads/bocfel-0.6.1.tar.gz?raw=true)
 
 Release date: 2012-02-27
 
@@ -69,7 +69,7 @@ Release notes:
 
 ### Bocfel 0.6.0
 
-[bocfel-0.6.0.tar.gz](/downloads/bocfel-0.6.0.tar.gz?raw=true)
+[bocfel-0.6.0.tar.gz](downloads/bocfel-0.6.0.tar.gz?raw=true)
 
 Release date: 2011-06-26
 
@@ -80,7 +80,7 @@ Release notes:
 
 ### Bocfel 0.5.5
 
-[bocfel-0.5.5.tar.gz](/downloads/bocfel-0.5.5.tar.gz?raw=true)
+[bocfel-0.5.5.tar.gz](downloads/bocfel-0.5.5.tar.gz?raw=true)
 
 Release date: 2011-04-22
 
@@ -90,7 +90,7 @@ Release notes:
 
 ### Bocfel 0.5.4
 
-[bocfel-0.5.4.tar.gz](/downloads/bocfel-0.5.4.tar.gz?raw=true)
+[bocfel-0.5.4.tar.gz](downloads/bocfel-0.5.4.tar.gz?raw=true)
 
 Release date: 2011-03-25
 
@@ -102,7 +102,7 @@ Release notes:
 
 ### Bocfel 0.5.3
 
-[bocfel-0.5.3.tar.gz](/downloads/bocfel-0.5.3.tar.gz?raw=true)
+[bocfel-0.5.3.tar.gz](downloads/bocfel-0.5.3.tar.gz?raw=true)
 
 Release date: 2011-03-09
 
@@ -113,7 +113,7 @@ Release notes:
 
 ### Bocfel 0.5.2
 
-[bocfel-0.5.2.tar.gz](/downloads/bocfel-0.5.2.tar.gz?raw=true)
+[bocfel-0.5.2.tar.gz](downloads/bocfel-0.5.2.tar.gz?raw=true)
 
 Release date: 2011-02-22
 
@@ -123,7 +123,7 @@ Release notes:
 
 ### Bocfel 0.5.1
 
-[bocfel-0.5.1.tar.gz](/downloads/bocfel-0.5.1.tar.gz?raw=true)
+[bocfel-0.5.1.tar.gz](downloads/bocfel-0.5.1.tar.gz?raw=true)
 
 Release date: 2011-02-18
 
@@ -135,7 +135,7 @@ Release notes:
 
 ### Bocfel 0.5.0
 
-[bocfel-0.5.0.tar.gz](/downloads/bocfel-0.5.0.tar.gz?raw=true)
+[bocfel-0.5.0.tar.gz](downloads/bocfel-0.5.0.tar.gz?raw=true)
 
 Release date: 2011-02-15
 
