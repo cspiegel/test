@@ -20,6 +20,17 @@ Although interactive fiction is today a rather niche genre, it has a loyal follo
 * [The Interactive Fiction Community Forum](http://www.intfiction.org/forum/)
 * The newsgroups rec.arts.int-fiction and rec.games.int-fiction
 
+### Screenshots
+
+* [Beyond Zork](screenshots/bd_curses.png?raw=true) under [glktermw](http://www.eblong.com/zarf/glk/).
+* [The Mad Bomber](screenshots/bomber_garglk.png?raw=true) under [garglk](https://github.com/garglk/garglk).
+* [TerpEtude](screenshots/etude_none.png?raw=true) running under the “dumb” interface which, despite its name, understands a bit about Unix terminals.
+* [Mingsheng](screenshots/mingsheng_garglk.png?raw=true) running under garglk, showing off Unicode support.
+* [Plundered Hearts](screenshots/plundered_qglk.png?raw=true) running under [QGlk](http://www.bubblycloud.com/qglk/).
+* [Spider and Web](screenshots/tangler_garglk.png?raw=true) Russian translation under garglk, also showing off Unicode.
+* [Zork](screenshots/zork_winglk.png?raw=true) running under [Windows Glk](http://www.ifarchive.org/indexes/if-archiveXprogrammingXglkXimplementations.html).
+* [The Dreamhold](screenshots/dreamhold_nanoglk.png?raw=true) running under [NanoGlk](http://www.ifarchive.org/indexes/if-archiveXprogrammingXglkXimplementations.html).
+
 ### Some of Bocfel's features
 
 * Almost no platform-specific functions are used—and those that are used are optional—so almost any system with a recent C compiler should be able to build and run Bocfel.
