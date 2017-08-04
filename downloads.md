@@ -22,7 +22,7 @@ Release notes:
 Release date: 2014-12-16
 
 Release notes:
-* Fix detection of Sherlock version 26-880127. 
+* Fix detection of *Sherlock* version 26-880127. 
 
 ### Bocfel 0.6.3.1
 
@@ -41,7 +41,7 @@ Release date: 2014-02-02
 
 Release notes:
 * Improved handling of abbreviations (x, g, z, and o). 
-* The “attribute 48” bug of Sherlock is now properly handled. 
+* The “attribute 48” bug of *Sherlock* is now properly handled. 
 * Blorb sounds are now properly loaded if the story file itself is wrapped in a Blorb file. 
 * Support for “debugging” meta commands, the main use of which is to help find cheats without needing to know details of the Z-machine architecture. 
 
@@ -52,9 +52,9 @@ Release notes:
 Release date: 2012-12-01
 
 Release notes:
-* Enable /undo in V5 games which do not support undo (e.g. Hitchhiker’s Guide). 
-* Add new meta commands /say (allowing text strings which begin with / to be sent to the game) and /disable (which disables meta commands for the rest of the game session). 
-* Add new meta commands /ps and /pop which allow in-memory saves to be created, providing arbitrary save points. 
+* Enable `/undo` in V5 games which do not support undo (e.g. *Hitchhiker’s Guide*). 
+* Add new meta commands `/say` (allowing text strings which begin with / to be sent to the game) and `/disable` (which disables meta commands for the rest of the game session). 
+* Add new meta commands `/ps` and `/pop` which allow in-memory saves to be created, providing arbitrary save points. 
 * Meta commands are no longer included in transcripts. 
 
 ### Bocfel 0.6.1
@@ -74,8 +74,8 @@ Release notes:
 Release date: 2011-06-26
 
 Release notes:
-* The configuration options script_on and script_name have been renamed to record_on and record_name. 
-* Support for some meta commands (/undo, /replay, etc.) has been added. 
+* The configuration options `script_on` and `script_name` have been renamed to `record_on` and `record_name`. 
+* Support for some meta commands (`/undo`, `/replay`, etc.) has been added. 
 * Assorted minor bugfixes and features. 
 
 ### Bocfel 0.5.5
@@ -85,7 +85,7 @@ Release notes:
 Release date: 2011-04-22
 
 Release notes:
-* Preliminary @sound_effect support. 
+* Preliminary `@sound_effect` support. 
 * Small bugfixes and general cleanup. 
 
 ### Bocfel 0.5.4
@@ -95,7 +95,7 @@ Release notes:
 Release date: 2011-03-25
 
 Release notes:
-* Fix a rather obscure bug triggered when @restart is called inside an interrupt. 
+* Fix a rather obscure bug triggered when `@restart` is called inside an interrupt. 
 * Improved resilience in the face of utterly broken story files. 
 * Minor improvements to the syntax for cheats. 
 * Improved handling of the configuration file on Windows. 
@@ -107,7 +107,7 @@ Release notes:
 Release date: 2011-03-09
 
 Release notes:
-* The initial random seed can now be read from a device such as /dev/random. 
+* The initial random seed can now be read from a device such as `/dev/random`. 
 * Support for Z-machine versions 1 and 2 is now built unconditionally. 
 * Small bugfixes and general cleanup. 
 
@@ -129,7 +129,7 @@ Release date: 2011-02-18
 
 Release notes:
 * Bocfel now reports itself as a Standard 1.1-compliant interpreter. 
-* The stack is now properly saved in a @save_undo call. 
+* The stack is now properly saved in a `@save_undo` call. 
 * Bocfel generates error messages on a few rather questionable uses of the Z-machine; some of these instances have been modified to return sensible results instead of aborting. 
 * The praxix and strictz tests are now passed. 
 
