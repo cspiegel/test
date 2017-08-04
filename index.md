@@ -4,6 +4,8 @@
 
 Bocfel is an interpreter for the [Z-machine](http://en.wikipedia.org/wiki/Z-machine). It fully supports versions 1-5, 7, and 8, and contains partial support for version 6. For detailed information on Bocfel's operation, please consult the [man page](https://cspiegel.github.io/test/bocfel.html).
 
+Bocfel can be downloaded from the [downloads page](downloads.md).
+
 ### The Z-machine
 
 The Z-machine was designed to run text adventure games, also known as interactive fiction. Originally the only Z-machine games were created by Infocom, the company that created the Z-machine. These include such games as Zork, The Hitchhiker's Guide to the Galaxy, and Planetfall. Fans of the genre figured out the format of the Z-machine, allowing non-Infocom interpreters, such as this one, to be built.
