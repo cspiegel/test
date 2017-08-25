@@ -5,7 +5,9 @@ Bocfel contains a number of ways to help discover cheats in games:
 It is possible to scan memory for words (16-bit values) matching a specific value.  This can be used if you know the specific value of something and want to find it, such as the amount of money being carried.  The commands are:
 
 `/debug scan start`: Restart scanning.  This forgets any previous scan that was in progress.
+
 `/debug scan N`: Scan memory for the value *N*.  If *N* starts with `0x` it is hexadecimal and unsigned; otherwise it is decimal and can range from `-32768` to `65535`.  When this command is run, the number of memory locations which contain the specific value is printed.  If this command is run again, the list will be narrowed down.  This process can be repeated until, with luck, only a single memory location contains the specified value.
+
 `/debug scan show`: Print out all locations matching the values that have been scanned for since the last scan start.
 
 For example, in *Beyond Zork*:
@@ -51,7 +53,9 @@ You have 100 zorkmids.
 Sometimes you can be confident that a word (16-bit value) is increasing or decreasing, but not know the specific values being used, such as when a water or food source is being consumed.  The commands are:
 
 `/debug change start`: Restart change tracking.  This forgets any previous change tracking that was in progress.
+
 `/debug change dec`: Display the location of all words which have decreased since the last check.
+
 `/debug change inc`: Display the location of all words which have increased since the last check.
 
 For example, in *Enchanter*:
