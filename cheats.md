@@ -4,7 +4,7 @@ This page gathers cheats for various games that can be employed using Bocfel's c
 
 **Please note**: These cheats have not been thoroughly tested, or tested much at all.  Use at your own risk.  There is no guarantee that a game will be completable if these cheats are used.
 
-For help on discovering cheats, please see [FindingCheats].
+For help on discovering cheats, please see [Finding Cheats](finding_cheats.md).
 
 ## Games
 
