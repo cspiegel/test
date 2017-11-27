@@ -36,7 +36,7 @@ Although interactive fiction is today a rather niche genre, it has a loyal follo
 ### Some of Bocfel's features
 
 * Almost no platform-specific functions are used—and those that are used are optional—so almost any system with a recent C compiler should be able to build and run Bocfel.
-* Makes use of [Glk](http://eblong.com/zarf/glk/) for input/ouput, with complete support for [url](https://github.com/garglk/garglk); a non-Glk “dumb” interface is also available.
+* Makes use of [Glk](http://eblong.com/zarf/glk/) for input/ouput, with complete support for [Gargoyle](https://github.com/garglk/garglk); a non-Glk “dumb” interface is also available.
 * Support (assuming a font with Unicode box-drawing characters) for the character graphics font used by Beyond Zork.
 * Unicode support: see, for example, Chinese characters used by [Mingsheng](http://ifdb.tads.org/viewgame?id=wjkg89918ttdbkm2) or the Russian translation of [Spider and Web](http://ifdb.tads.org/viewgame?id=2xyccw3pe0uovfad).
 * Multiple undo in almost all games, including those which do not natively support it.
